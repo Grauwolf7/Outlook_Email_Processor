@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+*.class
+.Python
+env/
+venv/
+.idea/
+.vscode/
+Email Summaries/
